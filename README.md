@@ -23,6 +23,6 @@
 
 ### 1. Clone the Repository
 
-bash
+```bash
  git clone https://github.com/kanakk020/SkyView.git
  cd SkyView
